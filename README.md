@@ -2,7 +2,7 @@
 
 # **Discord Bot**
 
-### Dependencias utilizadas
+### Dependencias utilizadas:
 * **Discord.js**
 * **Dotenv**
 * **Fs** 
@@ -24,4 +24,4 @@ npm i discord.js dotenv fs mongoose path && npm i -D nodemon
 ```
 
 ---
-### Un repositorio algo sencillo pero te puede servidr de algo.
+### Un repositorio algo sencillo pero te puede servir de algo.
